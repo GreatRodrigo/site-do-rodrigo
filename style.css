@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    font-family: "Poppins", sem serifa;
+}
 
 header {
     background-color: #424E61;
@@ -13,7 +16,8 @@ header {
 }
 
 .cabeçalho-imagem{
-    width: 20%;
+    width: 30%;
+    height: 30%;
 }
 
 .cabeçalho-imagem{
