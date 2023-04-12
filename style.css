@@ -27,11 +27,11 @@ header {
     font-size: 24px;
 }
 
-.Escola-imagem{
+.filme-imagem{
     width: 20%;
 }
 
-.Escola{
+.filme{
     background-image: linear-gradient(#424E61,#4ebfe9);
     color: white;
     display: flex;
@@ -40,21 +40,33 @@ header {
     padding: 24px 0;
 }
 
-.Escola-div-conteudo{
+.filme-div-conteudo{
     width: 35%;
 }
-.Escola-titulo{
+.filme-titulo{
     padding: 24px 0;
 }
 
-.estudante-imagem{
-    width: 12%;
+.filme-imagem{
+    width: 140px;
 }
 
-.estudante-icone{
+.filme-icone{
     width: 24px;
 }
 
-.estudante-div{
-    
+.filme-imagem-classe{
+    width: 180px;
+}
+
+.filme-div{
+    text-align: center;
+}
+
+.filme-2{
+    background-image: linear-gradient(#424E61,#4ebfe9);
+    color: white;
+    justify-content: left;
+    align-items: start;
+    padding: 24px 0;
 }
