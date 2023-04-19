@@ -69,4 +69,10 @@ header {
     justify-content: left;
     align-items: start;
     padding: 24px 0;
+    text-align: center;
+}
+
+.filme-todos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
 }
